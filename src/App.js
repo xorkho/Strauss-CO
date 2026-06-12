@@ -23,7 +23,6 @@ const WHITE = "#FFFFFF";
 const TEXT_DARK = "#2C1F1A";
 const TEXT_MID = "#7A5C55";
 const TEXT_LIGHT = "#A68880";
-const GOLD = "#C9A07A";
 
 const IMAGES = {
   hero: hero,
